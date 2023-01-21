@@ -1,0 +1,5 @@
+Shinchan loves traveling the world. He loves going from one city to the other. Being the miser that he is, he never wishes spend any money. Shinchan, instead, jumps from one city to the other. Also he likes trips of high quality.
+
+He can start at any city of his choice. Given that he has visited the i'th city, he will not visit it again, he will only visit the remaining unvisited cities. This means that Shinchan will jump n - 1 times in total, so that he can visit all of the n cities.
+
+Given two cities at heights, A and B, the amount of money spent is Q * |A - B| where Q is the quality of a trip. Shinchan has a list of cities he's dying to visit. Can you tell the minimum amount of money Shinchan would have to spend to visit all of the cities?

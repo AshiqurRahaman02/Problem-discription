@@ -1,0 +1,1 @@
+You are given a matrix A of size N X M. Find the sum of all the elements in the matrix which do not lie at the border.

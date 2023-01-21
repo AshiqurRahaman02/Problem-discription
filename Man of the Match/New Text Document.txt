@@ -1,0 +1,15 @@
+Team RCB has successfully chased a total and finally won their first match in the IPL after a string of losses. Interestingly, the openers managed it comfortably and no wicket fell during their innings in this match.
+
+The openers Virat Kohli and AB de Villiers played a total of n overs to chase their target. You are presented with an array of size 6n (because 1 over is equal to 6 balls) which consists of the runs scored in that particular ball.
+
+You know that AB de Villiers took the strike initially and played the first ball.
+
+You have to find out who scored more runs during the match after n overs to decide the Man of the Match.
+
+Print "Virat Kohli" if Virat scored more, else "AB de Villiers".Print "Tie" incase when both scored equal runs.
+
+Note-
+
+The array consist of values {0,1,2,3,4,6}. There are no extras.
+
+The strike rotates after every 6 balls or if 1 or 3 run is taken.
